@@ -1,0 +1,10 @@
+---
+title: "PM566-Lab2"
+author: "Sahar"
+format: html
+embed-resources: true
+---
+```{r}
+library(datasauRus)
+```
+
